@@ -27,7 +27,7 @@ I am a **Full-Stack, AI & Cloud Infrastructure Engineer** with 3+ years of hands
 - ☁️ **Cloud & DevOps**: Multi-cloud infrastructure across AWS and GCP, container orchestration with Kubernetes (GKE) and Docker Swarm, and Infrastructure as Code using Terraform.
 - 🚀 **GitOps & Platform Engineering**: Declarative continuous delivery with ArgoCD, automated CI/CD with GitHub Actions & Jenkins, and zero-downtime rolling deployments.
 - 📈 **Observability & Reliability**: Cluster-wide telemetry with Prometheus, Grafana, Loki, Tempo, and OpenTelemetry.
-- 📍 **Location**: India · Available for global freelance engagements, technical co-founder roles, and senior engineering opportunities.
+- 📍 **Location**: India, and senior engineering opportunities.
 
 ---
 
