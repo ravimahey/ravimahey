@@ -1,140 +1,188 @@
-# Ravi Kumar — Personal Engineering Portfolio
+# 💫 Ravi Kumar — Full-Stack, AI & Cloud Systems Engineer
 
-A premium, modern, responsive personal engineering portfolio website showcasing **Ravi Kumar** as a **Full-Stack Engineer, AI Engineer, Cloud & DevOps Engineer, and End-to-End Product Developer**.
+<div align="center">
 
-> **"I don't just build applications. I architect, develop, deploy, and manage complete production-ready products."**
+[![Website](https://img.shields.io/badge/Portfolio-ravimahey.github.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravimahey.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravimahey-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravimahey)
+[![GitHub](https://img.shields.io/badge/GitHub-ravimahey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravimahey)
+[![Email](https://img.shields.io/badge/Email-ravikumar.ops18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumar.ops18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40devops.explain-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devops.explain)
+[![Medium](https://img.shields.io/badge/Medium-%40ravi.devops.ai-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ravi.devops.ai)
 
----
+[![](https://visitcount.itsvg.in/api?id=ravimahey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Key Features
+> **"From Idea to Production. I Build the Entire Product."**  
+> *"I don't just build applications. I architect, develop, deploy, and manage complete production-ready products."*
 
-1. **Dark-First Modern Engineering Aesthetic**
-   - Deep charcoal background (`#09090b`), subtle ambient lighting, micro-interactions, and linear gradients inspired by Linear, Vercel, Stripe, and Raycast.
-   - Built-in Dark & Light mode toggle with persistent local storage.
-   - Canvas-driven technical background with interactive particle nodes and architecture lines.
-
-2. **Hero Section**
-   - Headline: *"From Idea to Production. I Build the Entire Product."*
-   - Live availability badge (`Open for Freelance & Senior Engineering Roles`).
-   - Location indicator: `India · Global Remote`.
-   - Interactive terminal widget showcasing Architecture, GitOps & K8s deployment state, and AI Vector search flows.
-   - Primary & Secondary CTAs with resume modal integration.
-
-3. **What I Do (6 Core Service Cards)**
-   - Full-Stack Development
-   - AI Engineering & Automation
-   - Cloud & DevOps Engineering
-   - Platform Engineering
-   - Product Development & Management
-   - Deployment & Production Management
-
-4. **Featured Projects & Case Studies**
-   - **Ordara**: AI-Powered Business Intelligence SaaS (Next.js, NestJS, FastAPI, Python, PostgreSQL, Docker, GCP, Terraform).
-   - **CogniScale**: AI-Powered Application Platform (GCP, GKE, Docker, Kubernetes, ArgoCD, GitHub Actions, Terraform, Prometheus, Grafana, Redis, Qdrant).
-   - **StrataOps**: Microservices Infrastructure (Docker Swarm, Jenkins, GitHub Actions, GCP, Artifact Registry, Nginx).
-   - **AI Document Processing Platform**: Enterprise RAG & Semantic Chunking Engine (Python, FastAPI, LLMs, Vector Databases, React/Next.js, Docker).
-   - Deep-dive case study routes at `/projects/[slug]` with interactive step-by-step system architecture diagrams, problem context, and engineering contributions.
-
-5. **Engineering Capabilities / Tech Stack**
-   - Categorized into Frontend, Backend, AI Engineering, Cloud, DevOps, and Observability.
-   - Interactive domain filters and verification chips without arbitrary progress bars.
-
-6. **Engineering Process (01 ➔ 06)**
-   - 01 Discover ➔ 02 Architect ➔ 03 Design & Develop ➔ 04 Automate ➔ 05 Deploy ➔ 06 Monitor & Optimize.
-
-7. **About Me & Principles**
-   - Background narrative and core values (Holistic Ownership, Production-Grade Engineering, Pragmatic AI, Observability-Driven Reliability).
-   - Target partner alignment (Startups, Founders, International Clients).
-
-8. **Contact & Inquiries**
-   - Working contact form with validation, project type selector, timeline options, and simulated `/api/contact` handler.
-   - Direct contact links for Email, LinkedIn, and GitHub.
-
-9. **Resume Experience**
-   - Interactive `ResumeModal` with one-click print-to-PDF.
-   - Dedicated `/resume` page.
-   - Direct download link to `/resume.txt`.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-- **Framework**: [Next.js 15 (App Router)](https://nextjs.org/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Motion / Framer Motion](https://motion.dev/)
-- **Icons**: [Lucide React](https://lucide.dev/) + Custom SVG Brand Icons
-- **Package Manager**: [pnpm](https://pnpm.io/)
+I am a **Full-Stack, AI & Cloud Infrastructure Engineer** with 3+ years of hands-on experience architecting, building, deploying, and operating scalable digital products and cloud-native systems. My work spans the complete engineering lifecycle — from product architecture and modern frontend applications to distributed backend microservices, intelligent AI integration, Infrastructure as Code, and production observability.
+
+- 🏗️ **Full-Stack SaaS**: Modern web applications with Next.js, React, TypeScript, NestJS, FastAPI, and PostgreSQL with multi-tenant data isolation.
+- 🤖 **AI Engineering**: Retrieval-Augmented Generation (RAG) pipelines, enterprise LLM integration, LangChain, LangGraph, and high-dimensional vector search with Qdrant.
+- ☁️ **Cloud & DevOps**: Multi-cloud infrastructure across AWS and GCP, container orchestration with Kubernetes (GKE) and Docker Swarm, and Infrastructure as Code using Terraform.
+- 🚀 **GitOps & Platform Engineering**: Declarative continuous delivery with ArgoCD, automated CI/CD with GitHub Actions & Jenkins, and zero-downtime rolling deployments.
+- 📈 **Observability & Reliability**: Cluster-wide telemetry with Prometheus, Grafana, Loki, Tempo, and OpenTelemetry.
+- 📍 **Location**: India · Available for global freelance engagements, technical co-founder roles, and senior engineering opportunities.
 
 ---
 
-## 📁 Project Structure
+## 💻 Technical Capabilities & Ecosystem
 
+### 🌐 Frontend & User Interfaces
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & API Architecture
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🧠 AI Engineering & Vector Retrieval
+![LLMs](https://img.shields.io/badge/LLMs-Claude%20%7C%20GPT--4-8b5cf6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Architecture-RAG%20Pipelines-6366f1?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Search-dc2626?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/Agents-Multi--Agent%20Workflows-0ea5e9?style=for-the-badge)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+### 🛠️ DevOps, GitOps & Containers
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 📊 Observability & Telemetry
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry)
+
+---
+
+## 🌟 Featured Production Projects
+
+### 1. [Ordara — AI-Powered Business Intelligence SaaS](https://github.com/ravimahey)
+> **Category**: Full-Stack Development | AI Engineering | SaaS  
+> **Technologies**: Next.js 15, NestJS, FastAPI, Python, PostgreSQL, Docker, GCP, Terraform
+
+- Multi-tenant architecture with tenant-isolated database schemas in PostgreSQL.
+- Automated accounting integration with QuickBooks Online and Xero.
+- Context-aware AI commentary microservice built with Python/FastAPI for automated executive trend analysis.
+- Complete Infrastructure as Code using Terraform on Google Cloud Platform.
+
+### 2. [CogniScale — Cloud-Native AI Application Platform](https://github.com/ravimahey)
+> **Category**: AI Engineering | Cloud Architecture | DevOps  
+> **Technologies**: GCP, GKE, Docker, Kubernetes, ArgoCD, GitHub Actions, Terraform, Prometheus, Grafana, Redis, Qdrant
+
+- Google Kubernetes Engine (GKE) architecture managed declaratively via ArgoCD GitOps pipelines.
+- Autoscaling Celery distributed worker pools backed by Redis for asynchronous AI inference workloads.
+- High-dimensional vector search indexing using Qdrant vector database.
+- Comprehensive cluster-wide Prometheus metrics and Grafana SLI/SLO dashboards.
+
+### 3. [StrataOps — Automated Microservices Infrastructure](https://github.com/ravimahey)
+> **Category**: DevOps | Platform Engineering  
+> **Technologies**: Docker Swarm, Jenkins, GitHub Actions, GCP Artifact Registry, Nginx
+
+- Multi-node Docker Swarm container orchestration cluster with zero-downtime rolling service updates.
+- Automated CI/CD build, testing, and container deployment workflows spanning Jenkins and GitHub Actions.
+- Dynamic Nginx reverse proxy routing with automated SSL termination.
+- Staging and QA environment replication matching production topologies.
+
+### 4. [AI Document Processing Platform](https://github.com/ravimahey)
+> **Category**: Full-Stack | AI Engineering  
+> **Technologies**: Python, FastAPI, LLMs, Vector Databases (Qdrant), React/Next.js, Docker
+
+- Semantic chunking and vector indexing engine handling unstructured PDFs, contracts, and financial reports.
+- Retrieval-Augmented Generation (RAG) with exact coordinate-level citation verification to eliminate hallucinations.
+- Responsive document workbench with side-by-side verified citation inspection.
+- Containerized FastAPI asynchronous API endpoints.
+
+---
+
+## 🔄 End-to-End Engineering Methodology
+
+```mermaid
+flowchart LR
+    A["01 Discover"] --> B["02 Architect"]
+    B --> C["03 Design & Develop"]
+    C --> D["04 Automate"]
+    D --> E["05 Deploy"]
+    E --> F["06 Monitor & Optimize"]
+    F -.-> C
 ```
-portfolio-ravi/
-├── public/
-│   ├── favicon.ico
-│   └── resume.txt                   # Downloadable plain text resume
-├── src/
-│   ├── app/
-│   │   ├── api/
-│   │   │   └── contact/route.ts     # Contact form API endpoint
-│   │   ├── projects/
-│   │   │   ├── page.tsx             # Complete projects showcase
-│   │   │   └── [slug]/page.tsx      # Dynamic SSG project case study pages
-│   │   ├── resume/
-│   │   │   └── page.tsx             # Dedicated printable resume page
-│   │   ├── globals.css              # Dark/light theme styles & grid patterns
-│   │   ├── layout.tsx               # Root layout & OpenGraph metadata
-│   │   └── page.tsx                 # Single-page portfolio root
-│   ├── components/
-│   │   ├── About.tsx                # About section & principles
-│   │   ├── Contact.tsx              # Contact section & direct links
-│   │   ├── ContactForm.tsx          # Validated inquiry form
-│   │   ├── FeaturedProjects.tsx     # Filterable project showcase
-│   │   ├── Footer.tsx               # Site footer & copyright
-│   │   ├── Hero.tsx                 # Hero section & terminal widget
-│   │   ├── HeroBackground.tsx       # Animated canvas nodes & grid
-│   │   ├── Navbar.tsx               # Sticky blurred navigation header
-│   │   ├── Process.tsx              # 6-step engineering methodology
-│   │   ├── ProjectArchitectureDiagram.tsx # Interactive system diagram
-│   │   ├── ProjectCard.tsx          # Project card with expandable flow
-│   │   ├── ResumeModal.tsx          # Full resume modal & print action
-│   │   ├── TechStack.tsx            # Categorized tech matrix & filters
-│   │   ├── ThemeToggle.tsx          # Dark/Light mode switch
-│   │   ├── WhatIDo.tsx              # 6 core service cards
-│   │   └── icons.tsx                # Custom GitHub & LinkedIn SVG icons
-│   ├── data/
-│   │   ├── profile.ts               # Centralized profile & bio data
-│   │   ├── projects.ts              # Centralized case study details
-│   │   ├── services.ts              # 6 core service definitions
-│   │   ├── skills.ts                # Categorized skill taxonomy
-│   │   └── process.ts               # 6-step lifecycle phases
-│   └── types/
-│       └── index.ts                 # TypeScript interfaces
-├── package.json
-├── tailwind.config.ts
-├── tsconfig.json
-└── next.config.ts
-```
+
+1. **01 — Discover**: Understand business goals, user challenges, schemas, and constraints.
+2. **02 — Architect**: Design system topology, multi-tenant databases, tech stack, and cloud boundaries.
+3. **03 — Design & Develop**: Build responsive UI, modular backend APIs, and integrated AI reasoning workflows.
+4. **04 — Automate**: Implement Terraform IaC, container builds, and declarative GitOps pipelines.
+5. **05 — Deploy**: Launch workloads to production cloud infrastructure (GKE, Swarm) with zero downtime.
+6. **06 — Monitor & Optimize**: Continuous telemetry with Prometheus/Grafana, proactive alerting, and performance tuning.
 
 ---
 
-## ⚡ Getting Started
+## 📊 GitHub Analytics
 
-### 1. Install Dependencies
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ravimahey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ravimahey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimahey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RaviKumar)
+
+</div>
+
+---
+
+## ⚡ Portfolio Website Stack & Local Setup
+
+The portfolio website is built with **Next.js 15 (App Router)**, **TypeScript**, **Tailwind CSS**, and **Motion**, featuring dark-first Linear/Vercel styling, interactive canvas nodes, and static generation.
+
+### Run Locally:
 ```bash
+# Clone the repository
+git clone https://github.com/ravimahey/portfolio.git
+cd portfolio-ravi
+
+# Install dependencies
 pnpm install
-```
 
-### 2. Run Development Server
-```bash
+# Start development server
 pnpm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the application.
 
-### 3. Production Build
+### Production Build:
 ```bash
 pnpm run build
 pnpm run start
 ```
+
+---
+
+<div align="center">
+  <sub>© 2026 Ravi Kumar. All rights reserved.</sub>
+</div>
