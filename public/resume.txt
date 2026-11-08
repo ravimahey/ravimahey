@@ -1,0 +1,82 @@
+================================================================================
+RAVI KUMAR — FULL-STACK, AI & CLOUD SYSTEMS ENGINEER
+================================================================================
+Location: India
+Email: ravikumar.ops18@gmail.com
+GitHub: https://github.com/ravimahey
+LinkedIn: https://www.linkedin.com/in/ravimahey/
+Website: https://ravimahey.github.io/
+Availability: Open for Freelance & Senior Engineering Opportunities
+
+"From Idea to Production. I Build the Entire Product."
+"I don't just build applications. I architect, develop, deploy, and manage complete production-ready products."
+
+--------------------------------------------------------------------------------
+CORE CAPABILITIES & TECHNICAL STACK
+--------------------------------------------------------------------------------
+Frontend:
+  - React, Next.js, TypeScript, JavaScript, Tailwind CSS
+
+Backend:
+  - Node.js, NestJS, Python, FastAPI, REST APIs, PostgreSQL, Redis
+
+AI Engineering & Vector Search:
+  - LLMs (Claude, GPT-4), Retrieval-Augmented Generation (RAG), LangChain,
+    LangGraph, AI Agents, Qdrant, Vector Search
+
+Cloud & DevOps:
+  - AWS, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)
+  - Docker, Kubernetes (GKE), Docker Swarm, Terraform (IaC)
+  - Jenkins, GitHub Actions, ArgoCD (GitOps)
+
+Observability & Telemetry:
+  - Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Nginx
+
+--------------------------------------------------------------------------------
+FEATURED PRODUCTION PROJECTS & ARCHITECTURES
+--------------------------------------------------------------------------------
+1. Ordara — AI-Powered Business Intelligence SaaS
+   Category: Full-Stack Development | AI Engineering | SaaS
+   Technologies: Next.js, NestJS, FastAPI, Python, PostgreSQL, Docker, GCP, Terraform
+   Key Contributions:
+   - Designed product architecture and multi-tenant database partitioning.
+   - Built high-throughput API integrations with QuickBooks and Xero.
+   - Integrated Python/FastAPI microservices for AI-powered insight extraction.
+   - Automated cloud deployment and Terraform Infrastructure as Code.
+
+2. CogniScale — AI-Powered Application Platform
+   Category: AI Engineering | Cloud Architecture | DevOps
+   Technologies: GCP, GKE, Docker, Kubernetes, ArgoCD, GitHub Actions, Terraform, Prometheus, Grafana, Redis, Qdrant
+   Key Contributions:
+   - Architected GCP infrastructure and Google Kubernetes Engine (GKE) clusters.
+   - Implemented GitOps continuous deployment workflows via ArgoCD.
+   - Configured autoscaling Celery worker pools with Redis for asynchronous AI tasks.
+   - Integrated Qdrant vector database and provisioned Prometheus/Grafana monitoring.
+
+3. StrataOps — Microservices Infrastructure
+   Category: DevOps | Platform Engineering
+   Technologies: Docker Swarm, Jenkins, GitHub Actions, GCP, Artifact Registry, Nginx
+   Key Contributions:
+   - Built multi-node Docker Swarm container orchestration infrastructure.
+   - Implemented Jenkins and GitHub Actions automated CI/CD pipelines.
+   - Automated rolling application deployments with zero downtime.
+   - Configured Nginx reverse proxy routing and staging environment parity.
+
+4. AI Document Processing Platform
+   Category: Full-Stack | AI Engineering
+   Technologies: Python, FastAPI, LLMs, Vector Databases (Qdrant), React/Next.js, Docker
+   Key Contributions:
+   - Architected end-to-end RAG application with citation verification.
+   - Developed interactive document workbench with side-by-side citation checking.
+   - Built FastAPI async endpoints and containerized microservice execution.
+
+--------------------------------------------------------------------------------
+END-TO-END ENGINEERING PROCESS
+--------------------------------------------------------------------------------
+01 — Discover: Understand business requirements, user challenges and constraints.
+02 — Architect: Design application architecture, infrastructure, data models and tech stack.
+03 — Design & Develop: Build frontend, backend, APIs, integrations and AI capabilities.
+04 — Automate: Implement CI/CD pipelines, GitOps workflows and Infrastructure as Code.
+05 — Deploy: Launch into production on scalable cloud infrastructure (GKE / Swarm).
+06 — Monitor & Optimize: Observability with Prometheus/Grafana, telemetry and ongoing tuning.
+================================================================================
