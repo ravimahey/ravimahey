@@ -43,13 +43,18 @@ export default function ContactForm() {
         body: JSON.stringify(formData),
       });
 
-      const data = await res.json();
-
-      if (!res.ok) {
-        throw new Error(data.error || "Submission failed");
+      if (res.ok) {
+        setStatus("success");
+      } else {
+        // Fallback for static hosting (GitHub Pages)
+        const mailtoUrl = `mailto:ravikumar.ops18@gmail.com?subject=${encodeURIComponent(
+          `Project Inquiry: ${formData.projectType} (${formData.name})`
+        )}&body=${encodeURIComponent(
+          `Name: ${formData.name}\nEmail: ${formData.email}\nScope: ${formData.projectType}\nTimeline: ${formData.timeline}\n\nMessage:\n${formData.message}`
+        )}`;
+        window.location.href = mailtoUrl;
+        setStatus("success");
       }
-
-      setStatus("success");
       setFormData({
         name: "",
         email: "",
@@ -57,9 +62,15 @@ export default function ContactForm() {
         timeline: "Within 1 Month",
         message: "",
       });
-    } catch (err: any) {
-      setStatus("error");
-      setErrorMessage(err.message || "Something went wrong. Please try emailing directly.");
+    } catch {
+      // Fallback for static hosting (GitHub Pages)
+      const mailtoUrl = `mailto:ravikumar.ops18@gmail.com?subject=${encodeURIComponent(
+        `Project Inquiry: ${formData.projectType} (${formData.name})`
+      )}&body=${encodeURIComponent(
+        `Name: ${formData.name}\nEmail: ${formData.email}\nScope: ${formData.projectType}\nTimeline: ${formData.timeline}\n\nMessage:\n${formData.message}`
+      )}`;
+      window.location.href = mailtoUrl;
+      setStatus("success");
     }
   };
 
