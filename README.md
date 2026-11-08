@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💫 Ravi Kumar — Full-Stack, AI & Cloud Systems Engineer
 
 <div align="center">
