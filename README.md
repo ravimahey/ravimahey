@@ -81,7 +81,7 @@ I am a **Full-Stack, AI & Cloud Infrastructure Engineer** with 3+ years of hands
 
 ## 🌟 Featured Production Projects
 
-### 1. [Ordara — AI-Powered Business Intelligence SaaS](https://github.com/ravimahey)
+### 1. [ApexMetrics — AI-Powered Business Intelligence SaaS](https://github.com/ravimahey)
 > **Category**: Full-Stack Development | AI Engineering | SaaS  
 > **Technologies**: Next.js 15, NestJS, FastAPI, Python, PostgreSQL, Docker, GCP, Terraform
 
